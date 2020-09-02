@@ -1,1 +1,38 @@
-
+body {
+    text-align: center;
+    }
+img{width: 100px}
+img{height: 100px}
+body#StudioArt {
+    background-color: lightpink;
+}
+body#Economics {
+    background-color: lightgreen;
+}
+body#Politics{
+    background-color: lightgoldenrodyellow;
+}
+body#ComputerScience {
+    background-color: lightblue;
+}
+body#Mathematics {
+    background-color: beige;
+}
+h1 {
+    font-family:sans-serif;
+    color: darkred;
+    font-size: 75px;
+    max-height: 1000px;
+    background-image: url(../../books.jpg);
+}
+p {
+    font-family:fantasy;
+    background-color: lightcyan;
+}
+table {
+    border: 5px solid black;
+    padding: 5px;
+    text-align: right;
+    font-family: cursive;
+    background-color: blanchedalmond;
+}

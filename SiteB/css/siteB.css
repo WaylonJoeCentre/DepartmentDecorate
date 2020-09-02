@@ -1,1 +1,22 @@
-
+body {
+    text-align: center;
+    background-color: lightblue;
+    }
+img{width: 100px}
+img{height: 100px}
+h1 {
+    font-family:sans-serif;
+    color: light dimgrey;
+    font-size: 75px;
+    max-height: 1000px;}
+p {
+    font-family:fantasy;
+    background-color: lightcyan;
+}
+table {
+    border: 5px solid black;
+    padding: 5px;
+    text-align: right;
+    font-family: cursive;
+    background-color: tan;
+}
